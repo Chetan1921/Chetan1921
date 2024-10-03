@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetan1921](https://github.com/Chetan1921)
 
-- 💬 Ask me about **Developing full-stack applications using the MERN stack (MongoDB, Express, React, Node.js) Building highly interactive and responsive UIs with React.js, Vue.js, and Next.js Creating smooth animations using GSAP (GreenSock Animation Platform) Writing efficient code in C++ and solving problems using Data Structures and Algorithms (DSA) Working with databases like MongoDB and MySQL Implementing RESTful APIs and backend architecture with Node.js and Express Frontend optimization techniques, performance improvements, and best practices in HTML5, CSS3, and JavaScript**
+- 💬 **Developing full-stack applications using the MERN stack (MongoDB, Express, React, Node.js) Building highly interactive and responsive UIs with React.js, Vue.js, and Next.js Creating smooth animations using GSAP (GreenSock Animation Platform) Writing efficient code in C++ and solving problems using Data Structures and Algorithms (DSA) Working with databases like MongoDB and MySQL Implementing RESTful APIs and backend architecture with Node.js and Express Frontend optimization techniques, performance improvements, and best practices in HTML5, CSS3, and JavaScript**
 
 - 📫 How to reach me **chetan.sharma200104022@gmail.com**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/chetansharma.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chetansharma.dev" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chetan-sharma10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetan-sharma10/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27479822/chetan-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27479822/chetan-sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/chetan7300844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chetan7300844" height="30" width="40" /></a>
